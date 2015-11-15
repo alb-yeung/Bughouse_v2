@@ -77,4 +77,5 @@ makeLines(ctx2);
 makeGrid();
 makeSquares(ctx1);
 makeSquares(ctx2);
+
 console.log(board1);
